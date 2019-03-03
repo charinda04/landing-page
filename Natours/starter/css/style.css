@@ -117,3 +117,8 @@ body {
     transform: translate(0);
   }
 }
+
+.btn:link,
+.btn:visited {
+  text-transform: uppercase;
+}
